@@ -1,0 +1,15 @@
+0: O raid 0 é um tipo de configuração de armazenamento em disco que distribui os dados de forma equilibrada em vários discos. Isso aumenta o desempenho e a velocidade de leitura e escrita, mas não oferece proteção contra falhas de disco.
+
+1: O raid 1 é um tipo de configuração de armazenamento em disco que cria uma cópia espelhada dos dados em dois ou mais discos. Isso fornece proteção contra falhas de disco, mas não aumenta o desempenho.
+
+0+1 ou 1+0: O raid 0+1 é uma configuração híbrida que combina as características do raid 0 e do raid 1. Ele usa os discos em configuração RAID 0 para aumentar o desempenho e os discos em RAID 1 para proteção contra falhas de disco.
+
+2: O raid 2 é um tipo de configuração de armazenamento em disco que distribui os dados em vários discos e usa códigos de correção de erros para proteger contra falhas de disco. Ele é menos comum do que outros tipos de RAID.
+
+3: O raid 3 é um tipo de configuração de armazenamento em disco que distribui os dados em vários discos e usa um disco dedicado para armazenar dados de paridade para proteger contra falhas de disco. Ele é menos comum do que outros tipos de RAID.
+
+4: O raid 4 é um tipo de configuração de armazenamento em disco que distribui os dados em vários discos e usa um disco dedicado para armazenar dados de paridade para proteger contra falhas de disco. Ele é menos comum do que outros tipos de RAID.
+
+5: O raid 5 é um tipo de configuração de armazenamento em disco que distribui os dados em vários discos e usa cálculos de paridade distribuídos para proteger contra falhas de disco. Ele é uma das configurações de RAID mais populares para uso em sistemas de arquivos.
+
+6: O raid 6 é um tipo de configuração de armazenamento em disco que distribui os dados em vários discos e usa cálculos de paridade distribuídos para proteger contra falhas de disco. Ele é semelhante ao RAID 5, mas usa dois discos dedicados para armazenar dados de paridade para aumentar a proteção contra falhas de disco.
